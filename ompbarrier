@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include<omp.h>
+#define N 100
+int main(){
+int a[N];
+
